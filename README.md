@@ -72,53 +72,69 @@ struct ShivaniVerma {
 
 <div align="center">
 
-## 👨‍💻 Languages
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,swift,js,ts,python,c" />
 
----
+</td>
 
-## 🎨 Frontend Development
+<td align="center" width="33%">
+
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 
----
+</td>
 
-## ⚙️ Backend Development
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+### ⚙️ Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-## 🗄️ Databases
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
 
----
+</td>
 
-## 📱 Mobile Development
+<td align="center" width="33%">
+
+### 📱 iOS Development
 
 <img src="https://skillicons.dev/icons?i=swift" />
 
-<img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=swift"/>
-<img src="https://img.shields.io/badge/CoreData-black?style=for-the-badge&logo=apple"/>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
-## ☁️ Cloud & Deployment
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=vercel,railway,netlify" />
+<img src="https://img.shields.io/badge/Core_Data-1C1C1E?style=for-the-badge&logo=apple&logoColor=white"/>
 
----
+</td>
 
-## 🧰 Tools & Platforms
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,xcode,jira" />
+### ☁️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,railway,vscode,xcode,jira" />
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 # 🌟 Featured Projects
 
@@ -244,35 +260,6 @@ struct ShivaniVerma {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivaniverma2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniverma2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivaniverma2004&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🧠 Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/shivaniverma2004?theme=dark&font=Nunito&ext=contest"/>
-
-</div>
 
 ---
 
