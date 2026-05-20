@@ -4,7 +4,7 @@
 
 ### Software Engineer • Full Stack Developer • iOS Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;iOS+Developer;Java+%7C+Spring+Boot+%7C+MERN+%7C+Swift;Building+Scalable+Software+Applications;Backend+Systems+%26+REST+APIs;Clean+UI+%2B+Strong+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN+%7C+Swift;Building+Scalable+Software+Applications;Backend+Systems+%26+REST+APIs;iOS+Developer+Focused+on+Clean+Experiences" />
 
 <br/>
 
@@ -136,110 +136,196 @@ struct ShivaniVerma {
 
 </div>
 
-# 🌟 Featured Projects
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Building scalable full stack systems, AI-integrated products, and accessible iOS applications.
+
+</div>
 
 ---
 
-# 🧠 SpeakEasy — AI Learning Platform
+<table>
+<tr>
+<td width="50%">
 
-### 🔗 Links
+## 🧠 SpeakEasy
 
-- GitHub: https://github.com/shivaniverma2004/SpeakEasy
-- Portfolio: https://shivportfolio-one.vercel.app/
+### AI Learning Platform
 
-### ✨ Features
+<img src="https://img.shields.io/badge/AI-Powered-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS-Application-black?style=for-the-badge"/>
 
-- OCR-based text extraction using Vision Framework
-- AI response validation & categorization
-- Offline storage using Core Data
-- Parsing pipelines for structured outputs
-- AI-assisted learning workflows
-- Data quality & evaluation systems
+### ✨ Highlights
 
-### 🛠️ Tech Stack
+- OCR-based text extraction pipeline
+- Gemini API response validation
+- AI output categorization & evaluation
+- Offline data persistence using Core Data
+- Structured parsing & clean data workflows
+
+### 🛠️ Stack
 
 `Swift` `Vision Framework` `Core Data` `Gemini API`
 
----
-
-# ✅ TaskManage — Full Stack Task Management System
-
 ### 🔗 Links
 
-- Live Demo: https://generous-simplicity-production-ff0e.up.railway.app
-- Portfolio: https://shivportfolio-one.vercel.app/
+[GitHub](https://github.com/shivaniverma2004/SpeakEasy)
 
-### ✨ Features
+</td>
 
-- Role-based authentication system
-- Scalable REST APIs using Spring Boot
+<td width="50%">
+
+## ✅ TaskManage
+
+### Full Stack Task Management System
+
+<img src="https://img.shields.io/badge/Full_Stack-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge"/>
+
+### ✨ Highlights
+
+- Secure role-based authentication
+- Scalable REST API architecture
 - PostgreSQL database integration
-- CRUD operations with validation checks
-- Backend deployment using Railway
-- Structured API request/response handling
+- CRUD operations with validation
+- Railway deployment pipeline
+- Backend-focused engineering workflows
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
-`Java` `Spring Boot` `PostgreSQL` `REST APIs` `Railway`
-
----
-
-# 🌿 Anumodya — Wellness Application
+`Java` `Spring Boot` `PostgreSQL` `REST APIs`
 
 ### 🔗 Links
 
-- GitHub: https://github.com/shivaniverma2004/anu
+[Live Demo](https://generous-simplicity-production-ff0e.up.railway.app)
 
-### ✨ Features
+[GitHub](https://github.com/shivaniverma2004/Taskmanage)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌿 Anumodya
+
+### Wellness & Mindfulness Application
+
+<img src="https://img.shields.io/badge/Wellness_App-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS-black?style=for-the-badge"/>
+
+### ✨ Highlights
 
 - Mood tracking & personalized suggestions
-- Real-time sync using Supabase
+- Real-time backend sync using Supabase
 - Virtual mala jaap with haptic feedback
-- Challenges & wellness resources
-- Authentication & backend integration
+- User challenges & wellness resources
+- Authentication & cloud integration
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 `Swift` `UIKit` `Supabase`
 
----
-
-# 📖 Dyslexia Reader — Accessibility Focused App
-
 ### 🔗 Links
 
-- GitHub: https://github.com/shivaniverma2004/DyslexiaReader
+[GitHub](https://github.com/shivaniverma2004/anu)
 
-### ✨ Features
+</td>
+
+<td width="50%">
+
+## 📖 Dyslexia Reader
+
+### Accessibility Focused Application
+
+<img src="https://img.shields.io/badge/Accessibility-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WWDC_Project-black?style=for-the-badge"/>
+
+### ✨ Highlights
 
 - Real-time OCR text detection
-- Dyslexia-friendly customization
-- Text-to-speech functionality
-- Pronunciation evaluation
+- Dyslexia-friendly reading customization
+- Text-to-speech support
+- Pronunciation evaluation system
 - Gamified reading experience
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 `Swift` `Vision Framework` `AVFoundation`
 
----
-
-# 🍳 Mini Recipe App
-
 ### 🔗 Links
 
-- GitHub: https://github.com/shivaniverma2004/MiniRecipeApp
+[GitHub](https://github.com/shivaniverma2004/DyslexiaReader)
 
-### ✨ Features
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🍳 Mini Recipe App
+
+### Recipe Browsing Application
+
+<img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS_App-black?style=for-the-badge"/>
+
+### ✨ Highlights
 
 - Clean and responsive UI
 - Dynamic recipe rendering
-- Smooth navigation flow
-- Lightweight application architecture
+- Lightweight architecture
+- Smooth navigation experience
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 `Swift` `UIKit`
+
+### 🔗 Links
+
+[GitHub](https://github.com/shivaniverma2004/MiniRecipeApp)
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+### Personal Developer Portfolio
+
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge"/>
+
+### ✨ Highlights
+
+- Responsive modern UI
+- Developer-focused design
+- Project showcase platform
+- Professional web presence
+
+### 🛠️ Stack
+
+`React` `Vercel`
+
+### 🔗 Links
+
+[Portfolio](https://shivportfolio-one.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -260,6 +346,25 @@ struct ShivaniVerma {
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivaniverma2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniverma2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivaniverma2004&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
